@@ -1,0 +1,16 @@
+You are to create a model..
+1. Employee.
+
+The model can contain any amount of Fields but it must contain salary_amount and promotion points.
+
+
+For the view's you must create a:
+
+POST(create employee) view:
+this view will create the employee and fill in all the Field's.
+
+EDIT or POST(promotion points) view:
+This view will either add or reduce promotion points.
+
+DELETE(fire) view: 
+This view will delete selected employee.
